@@ -1,3 +1,5 @@
+
+
 ///////////////////////////////////////////////////////////
 // Set current year
 const yearEl = document.querySelector(".year");
